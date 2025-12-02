@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="CHIP-8 Emulator.vcxproj" />
+  <Project Path="CHIP-8 Emulator.vcxproj" Id="0f316930-5181-4145-9167-fd0605b801fe" />
 </Solution>
